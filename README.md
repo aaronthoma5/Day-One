@@ -22,6 +22,9 @@ Day-One is an iOS application designed to encourage consistency and long-term gr
 
 This repository documents the collaborative one month long process of building the development of Day-One. As a team of four developers with iOS development experience with the Detroit Apple Developer Academy, teamwork guided our process from start to finish. As a well-rounded group, we leveraged our strengths in design, coding, and project management to develop Day-One as a user-centered product grounded in real needs. James, a Renaissance developer at the Academy, served as the foundation of our app's vision. Through extensive interviews and research into his artistic workflow, we committed to creating a solution that aligns with his goals while removing barriers that could limit his creativity.
 
+<img width="945" height="458" alt="Screenshot 2025-12-16 at 8 47 24 AM" src="https://github.com/user-attachments/assets/4bf6fe43-784d-4875-ad29-2e1f89428250" />
+<img width="945" height="458" alt="Screenshot 2025-12-16 at 8 47 24 AM" src="https://github.com/user-attachments/assets/4bf6fe43-784d-4875-ad29-2e1f89428250" />
+
 
 ### Frameworks
 
